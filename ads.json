@@ -1,0 +1,18 @@
+{
+  "dashboard": {
+    "image_url": "https://raw.githubusercontent.com/Sadaqat-Ali-Forex/FluxVault-Ads/main/test_300.png",
+    "click_url": "https://t.me/your_telegram"
+  },
+  "download": {
+    "image_url": "https://raw.githubusercontent.com/Sadaqat-Ali-Forex/FluxVault-Ads/main/test_400.png",
+    "click_url": "https://t.me/your_telegram"
+  },
+  "vault": {
+    "image_url": "https://raw.githubusercontent.com/Sadaqat-Ali-Forex/FluxVault-Ads/main/test_400.png",
+    "click_url": "https://t.me/your_telegram"
+  },
+  "playlist": {
+    "image_url": "https://raw.githubusercontent.com/Sadaqat-Ali-Forex/FluxVault-Ads/main/test_400.png",
+    "click_url": "https://t.me/your_telegram"
+  }
+}
