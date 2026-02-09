@@ -1,18 +1,18 @@
 {
   "dashboard": {
-    "image_url": "https://raw.githubusercontent.com/Sadaqat-Ali-Forex/FluxVault-Ads/main/test_300.png",
-    "click_url": "https://t.me/your_telegram"
+    "image_url": "https://picsum.photos/300/250",
+    "click_url": "https://t.me/fluxvault"
   },
-  "download": {
-    "image_url": "https://raw.githubusercontent.com/Sadaqat-Ali-Forex/FluxVault-Ads/main/test_400.png",
-    "click_url": "https://t.me/your_telegram"
+  "download_window": {
+    "image_url": "https://picsum.photos/400/100",
+    "click_url": "https://t.me/fluxvault"
   },
   "vault": {
-    "image_url": "https://raw.githubusercontent.com/Sadaqat-Ali-Forex/FluxVault-Ads/main/test_400.png",
-    "click_url": "https://t.me/your_telegram"
+    "image_url": "https://picsum.photos/400/100",
+    "click_url": "https://t.me/fluxvault"
   },
   "playlist": {
-    "image_url": "https://raw.githubusercontent.com/Sadaqat-Ali-Forex/FluxVault-Ads/main/test_400.png",
-    "click_url": "https://t.me/your_telegram"
+    "image_url": "https://picsum.photos/400/100",
+    "click_url": "https://t.me/fluxvault"
   }
 }
